@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexxSavov/EmployeeXYZee-Track-2.0/issues"
   },
-  "homepage": "https://github.com/AlexxSavov/EmployeeXYZee-Track-2.0#readme"
+  "homepage": "https://github.com/AlexxSavov/EmployeeXYZee-Track-2.0#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  }
 }
